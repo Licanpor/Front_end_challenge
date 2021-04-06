@@ -1,2 +1,2 @@
-# Front_end_challenge
+# Front-End Challenge
 SC - Xandr Front-End Challenge
